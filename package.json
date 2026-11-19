@@ -1,0 +1,21 @@
+{
+  "name": "sentimentx-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@rolldown/binding-win32-x64-msvc": "^1.2.19",
+    "@vitejs/plugin-react": "latest",
+    "firebase": "^13.4.0",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "vite": "latest"
+  }
+}
